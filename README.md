@@ -7,6 +7,10 @@ Created By: Haider Raza
 Date: 23 July 2018 
 
 Contact: h.raza@essex.ac.uk
+
 Twitter: @sagihaider
+
 LinkedIn: sagihaider
+
 Github: sagihaider
+
