@@ -1,7 +1,7 @@
 # IADS_SC_2018
-**Learning Under Different Training and Testing Distributions**
-
 Welcome to "**The Big Data & Analytics Summer School 2018**"
+
+Title: **Learning Under Different Training and Testing Distributions**
 
 Created By: **Haider Raza**
 
@@ -14,4 +14,5 @@ Twitter: @sagihaider
 LinkedIn: sagihaider
 
 Github: sagihaider
+
 
