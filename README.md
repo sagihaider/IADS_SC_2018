@@ -9,11 +9,10 @@ Date: 23 July 2018
 
 Contact: h.raza@essex.ac.uk
 
-Twitter: @sagihaider https://twitter.com/sagihaider
+Twitter: https://twitter.com/sagihaider
 
-LinkedIn: sagihaider
+LinkedIn: https://www.linkedin.com/in/sagihaider/
 
-Github: sagihaider
+Github: https://github.com/sagihaider
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
