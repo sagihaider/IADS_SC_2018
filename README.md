@@ -7,8 +7,6 @@ Created By: **Haider Raza**
 
 Webpage: https://www.essex.ac.uk/people/razah72409 
 
-Date: 23 July 2018 
-
 Contact: h.raza@essex.ac.uk
 
 Twitter: https://twitter.com/sagihaider
